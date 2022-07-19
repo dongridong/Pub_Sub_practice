@@ -1,0 +1,17 @@
+1. generate .git file
+  git clone "new git file"
+  ex) git clone https://github.com/dongridong/Pub_Sub_practice.git
+
+2. add program in git file
+  git add "code name"
+  ex) git add target_pose.py
+
+3. explain fixed code
+  git commit -m "fixed code"
+  ex) git commit -m "initial commit"
+
+4. upload update file
+  git push origin main
+
+5. download or update file
+  git pull origin main
